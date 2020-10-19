@@ -1,0 +1,191 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6846",
+      "name": "钥匙",
+      "font_class": "yaochi",
+      "unicode": "3437",
+      "unicode_decimal": 13367
+    },
+    {
+      "icon_id": "556007",
+      "name": "水管",
+      "font_class": "shuiguan",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "1471157",
+      "name": "挖矿",
+      "font_class": "wakuang",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "2406067",
+      "name": "水龙头",
+      "font_class": "xinxinicon",
+      "unicode": "e6ad",
+      "unicode_decimal": 59053
+    },
+    {
+      "icon_id": "3473524",
+      "name": "水管爆裂",
+      "font_class": "water-pipe-burst",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "4185022",
+      "name": "卡片",
+      "font_class": "qiapian",
+      "unicode": "e507",
+      "unicode_decimal": 58631
+    },
+    {
+      "icon_id": "4970045",
+      "name": "钥匙",
+      "font_class": "yuechi",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "5149551",
+      "name": "水龙头",
+      "font_class": "shuilongtou",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "7087899",
+      "name": "钥匙",
+      "font_class": "yuechi1",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "8531049",
+      "name": "卡片",
+      "font_class": "huabanfuben",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "9199619",
+      "name": "矿机明细",
+      "font_class": "kuangjimingxi",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "9382649",
+      "name": "水池",
+      "font_class": "shuichi",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "9808451",
+      "name": "水厂",
+      "font_class": "shuichang",
+      "unicode": "e6d1",
+      "unicode_decimal": 59089
+    },
+    {
+      "icon_id": "10160368",
+      "name": "卡片",
+      "font_class": "kapian",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "11051697",
+      "name": "确认",
+      "font_class": "queren",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "11858583",
+      "name": "矿机类型修复",
+      "font_class": "kuangjileixingxiufu",
+      "unicode": "e6dc",
+      "unicode_decimal": 59100
+    },
+    {
+      "icon_id": "12148051",
+      "name": "卡片",
+      "font_class": "creditcard",
+      "unicode": "e703",
+      "unicode_decimal": 59139
+    },
+    {
+      "icon_id": "12221139",
+      "name": "矿机图标",
+      "font_class": "kuangjitubiao",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "13137087",
+      "name": "供水管网-01",
+      "font_class": "gongshuiguanwang-",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "13477668",
+      "name": "水厂",
+      "font_class": "shuichang1",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "13587959",
+      "name": "总矿机台数",
+      "font_class": "zongkuangjitaishu",
+      "unicode": "e721",
+      "unicode_decimal": 59169
+    },
+    {
+      "icon_id": "13851844",
+      "name": "水厂",
+      "font_class": "shuichang2",
+      "unicode": "e6cf",
+      "unicode_decimal": 59087
+    },
+    {
+      "icon_id": "14402062",
+      "name": "蓄水池",
+      "font_class": "xushuichi",
+      "unicode": "e68d",
+      "unicode_decimal": 59021
+    },
+    {
+      "icon_id": "16094836",
+      "name": "水龙头",
+      "font_class": "shuilongtou1",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "16221543",
+      "name": "挖矿默认",
+      "font_class": "wakuangmoren",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "16924471",
+      "name": "矿机",
+      "font_class": "kuangji",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    }
+  ]
+}
